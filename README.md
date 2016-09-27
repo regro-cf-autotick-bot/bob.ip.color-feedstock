@@ -1,7 +1,7 @@
 About bob.ip.color
 ==================
 
-Home: http://github.com/bioidiap/bob.ip.color
+Home: https://www.idiap.ch/software/bob/
 
 Package license: Modified BSD License (3-clause)
 
