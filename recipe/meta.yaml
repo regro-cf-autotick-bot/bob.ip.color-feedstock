@@ -1,4 +1,4 @@
-{% set version = "2.0.5" %}
+{% set version = "2.0.6" %}
 
 package:
   name: bob.ip.color
@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.ip.color-{{ version }}.zip
-  md5: 0a6d2a90ba808a406932c0ba8c7d04b7
+  md5: 5ae6fe1fdf4c185bd383b8ca7a069f9c
   url: https://pypi.io/packages/source/b/bob.ip.color/bob.ip.color-{{ version }}.zip
 
 build:
@@ -46,7 +46,7 @@ test:
     - nose
 
 about:
-  home: http://github.com/bioidiap/bob.ip.color
+  home: https://www.idiap.ch/software/bob/
   license: Modified BSD License (3-clause)
   summary: Color Conversion Utilities of Bob
 
