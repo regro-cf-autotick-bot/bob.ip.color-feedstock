@@ -1,4 +1,4 @@
-{% set version = "2.0.7" %}
+{% set version = "2.0.13" %}
 
 package:
   name: bob.ip.color
@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.ip.color-{{ version }}.zip
-  md5: 6f4c76c5af9d2ac1e69110e959d95c0b
+  md5: d1e076c699b70746ce4c491a5b5d16cf
   url: https://pypi.io/packages/source/b/bob.ip.color/bob.ip.color-{{ version }}.zip
 
 build:
